@@ -49,6 +49,19 @@ header{
     text-decoration: none;
 }
 
+/* selector class hero-about-right untuk mengatur header 1 */
+.hero-about-rigt h1 {
+  font-size: 2rem;
+  line-height: 150%;
+  color: white;
+}
+
+/* selector class hero-about-right untuk mengatur paragraf */
+.hero-about-right p {
+  margin-top: 5px;
+  color: rgba(19, 17, 26, 0.80);
+}
+
 /* selector class hero digunakan pada bagian beranda */
 .hero {
     display: flex;
